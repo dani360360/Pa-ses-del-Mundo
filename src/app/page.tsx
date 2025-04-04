@@ -1,4 +1,3 @@
-'use client';
 import { useState, useEffect } from 'react';
 import { Paper } from '@mui/material';
 import CountryCard from './components/CountryCard';
